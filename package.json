@@ -1,0 +1,12 @@
+{
+  "name": "shortcuts",
+  "version": "1.0.0",
+  "main": "src/background.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
